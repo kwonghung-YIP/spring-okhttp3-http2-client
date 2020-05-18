@@ -1,0 +1,7 @@
+spring:
+  main:
+    web-application-type: none
+    
+logging:
+  level:
+    okhttp3: debug
